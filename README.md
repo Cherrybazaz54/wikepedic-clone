@@ -1,0 +1,1 @@
+Developed a Wikipedia clone using HTML, CSS, and JavaScript, showcasing proficiency in web development and front-end design. Implemented features for article viewing and search functionality, demonstrating strong skills in creating dynamic and user-friendly interfaces.
